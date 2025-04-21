@@ -31,3 +31,7 @@ pip install -r requirements.txt
 ### 焊接：
 
 ![alt text](image.png)
+
+### 循跡：
+
+我這輩子 不想再碰自動控制了
